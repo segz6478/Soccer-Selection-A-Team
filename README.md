@@ -39,7 +39,7 @@ To meet the competitiveness requirement, regardless of return on investment (ROI
 
 From the above results the anticipated spending on players for each year and the subsequent probabilities of placaing are shown in Figures 1 and 2.
 
-![Value for 2021 Tournament Teams vs Tournament Placing](/Soccer-Selection-A-Team/main/Player (Field and Goalkeeper) Value for 2021 Tournament Teams vs Tournament Placing.png)
+![Value for 2021 Tournament Teams vs Tournament Placing](Player%20(Field%20and%20Goalkeeper)%20Value%20for%202021%20Tournament%20Teams%20vs%20Tournament%20Placing.png)
 
 ![image](https://user-images.githubusercontent.com/103296443/162554195-dc78af20-d76d-489f-859b-3db8396472e9.png)
 
