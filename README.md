@@ -37,7 +37,7 @@ To meet the competitiveness requirement, regardless of return on investment (ROI
 
 ### Results 
 
-From the above results the anticipated spending on players for each year and the subsequent probabilities of placaing are shown in Figures 1 and 2.
+The anticipated spending on players for each year and the subsequent probabilities of placing are shown in Figures 1 and 2.
 
 ![Value for 2021 Tournament Teams vs Tournament Placing](Player%20(Field%20and%20Goalkeeper)%20Value%20for%202021%20Tournament%20Teams%20vs%20Tournament%20Placing.png)
 
@@ -45,6 +45,11 @@ From the above results the anticipated spending on players for each year and the
 
 ![image](https://user-images.githubusercontent.com/103296443/162554051-aff1b08b-9bd2-44af-8d5d-280a76768fa8.png)
 
+The players chosen for the 2022 tournament are shown in Annex A.
+
+### Monitor
+
+Key metrics to monitor the success of the strategy are:
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
