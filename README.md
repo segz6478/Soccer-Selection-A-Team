@@ -27,6 +27,8 @@ Over the 10 years, the investment of 995mil Doubloons allows Rarita to construct
 5. Minimised the net present value (NPV) of the total player salaries each year (includes return on investment and superimposed inflation), whilst meeting the competitiveness requirement.
 6.	With the team budget for each year confirmed, players were selected.
 
+A detailed description of the modelling strategy is contained [here](Model_steps.PNG).
+
 ### Qualitative Constraints
 
 To meet the competitiveness requirement, regardless of return on investment (ROI) of unspent monies, increasing spending by an order of magnitude for two of the years (in the first 5 years) is required . However, large player budgets in 2025 and 2026 are ideal given other considerations. 
@@ -48,19 +50,58 @@ The anticipated spending on players for each year and the subsequent probabiliti
 
 ![Yearly Probabilities](https://github.com/segz6478/Soccer-Selection-A-Team/blob/main/Corresponding%20probabilities%20of%20finishing%20top%203%20(Place)%2C%20top%2010%20including%20Top%203%20(top%2010)%20or%20outside%20top%2010%20(bottom)%20for%20tournament%20position%20using%2012%25%20ROI.png)
 
-The players chosen for the 2022 tournament are found [Here](player_list_2022.PNG).
+The players chosen for the 2022 tournament are found [here](player_list_2022.PNG).
 
 ### Monitor
 
-Key metrics to monitor the success of the strategy are:
-
-![Monitor](monitor.PNG)
-
+Key metrics were used to [monitor](monitor.PNG) the strategy.
 
 ## Economic Impacts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/segz6478/Soccer-Selection-A-Team/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Scenarios
 
-### Strategy
+The following scenarios were used to determine the economic impact of creating an international Rarita soccer team:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. No material impact (may occur if the team consistently underperforms, or if there is little consumer interest). 
+*   Revenues and expenses will grow in line with the historical average, defined as the 4-year geometric mean between 2016-2020 except for matchday revenues. 
+*   2019-20 matchday data should be omitted to remove the effect of the COVID-19 pandemic which prevented live matches.
+2.  Moderate Impact
+*   Revenue growth will be double the historical average over the next 5 years.
+*   Aligns with Rarita’s goal to be a top 10 team within 5 years whereby a high-value team selected in years 2025-26 will succeed in placing in the top 10 to generate greater revenues through consistent public interest and sales.
+3.  High Impact
+*   Linear growth over the next 5 years up to the average revenues and expenses per capita recorded by the top 10 placing nations in 2020, before returning to the historical average growth.
+
+### Assumptions
+
+Across all scenarios, the following simplifying assumptions apply: 
+
+*	Revenues and expenses grow uniformly throughout each province;
+*	3.5% inflation in line with historical yearly averages (1991-2020);
+*	12% ROI (per the team selection analysis); and
+*	At the start of each year, return on invested assets are available and salaries are paid in full.
+
+### Cash Flow
+
+Below is a graph of the cash flow given each scenario:
+
+![cash_flow](cash_flow_analysis.png)
+
+The direct and indirect indicators can be found [here](economic_impacts.PNG).
+
+### Risks
+
+Below is a list of potential key risks resulting from the launch of the new team.
+
+![risk](key_risks.PNG)
+
+In relation to the risk of higher of expenses (risk 1), below is an analysis of the sensitivity impact (holding all other variables equal) for extreme ends of the variation range of key metrics under scenario 2.  
+
+![ROI](ROI_Sensitivity.png)
+
+An assumption of 12% ROI is not required to maintain net profit over 10 years; an average ROI of 5% will ensure that a net profit is achieved. This target is reasonable in line with the S&P500 projected annualised return of 6% over the next 10 years.  A diversified portfolio may include real estate, which in the US has averaged 7.8% in 2016-21,   while bonds and options can relieve the underlying currency and liquidity risks.
+
+![Inflation](Inflation_sensitivity.png)
+
+Rarita should only be concerned when inflation exceeds 5%. The economic data provided illustrates that Rarita’s inflation has steadily decreased and was recorded as 1.32% in 2020 due to the COVID-19 pandemic. This relatively low inflation rate in 2020 is comparable to other countries, such as the US.  While inflation is expected to rebound globally for the next few years, Rarita’s inflation will likely settle on the historical average of 3.5%.
+
+
